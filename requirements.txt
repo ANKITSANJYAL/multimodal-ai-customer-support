@@ -1,0 +1,11 @@
+openai
+transformers
+opencv-python
+neo4j
+streamlit
+pillow
+python-dotenv
+dotenv
+torch
+torchvision
+torchaudio
